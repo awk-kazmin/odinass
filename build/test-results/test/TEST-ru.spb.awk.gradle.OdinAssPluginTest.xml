@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.spb.awk.gradle.OdinAssPluginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-21T20:56:15" hostname="stat-awk" time="2.387">
-  <properties/>
-  <testcase name="odinAssPluginAddsGreetingTaskToProject" classname="ru.spb.awk.gradle.OdinAssPluginTest" time="2.387"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
